@@ -1,0 +1,24 @@
+#login {
+    background-color:#f0f0e1 ;
+    border: 2px dotted;
+}
+label {
+    color:#c1c1c1,; 
+    font: monospace;
+}
+        
+#login__output {
+    margin-top: 15px;
+    padding: 30px; 
+    border: 2px solid;
+    display: none;
+}
+.bgRed{
+    background: red;
+}
+#login__username_red{
+    font-weight: bold;
+}
+#login__password_red{
+    font-weight: bold;
+}
